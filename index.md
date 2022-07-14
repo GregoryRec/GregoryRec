@@ -1,7 +1,5 @@
 ## Gregory Recalde
-
-Soy un desarrollador web
-
+• Unity Developer
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
