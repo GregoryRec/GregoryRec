@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Gregory Recalde
 
 You can use the [editor on GitHub](https://github.com/GregoryRec/gregoryrecalde/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
